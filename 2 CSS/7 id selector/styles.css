@@ -1,0 +1,13 @@
+/* select all element with an id attribute */
+
+#mainHeading {
+  color: green;
+}
+
+#subHeading {
+  color: yellow;
+}
+
+p {
+  color: brown;
+}
