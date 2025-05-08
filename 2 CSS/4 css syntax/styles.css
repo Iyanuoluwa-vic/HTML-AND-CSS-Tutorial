@@ -1,0 +1,15 @@
+/* CSS systax */
+
+/* - Selector: it is used to select the element
+   -Property: used to set the style of the element
+   -Value: it is used to set value of the property
+   -Declaration block - ordered collection of css poroperties and value
+*/
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
