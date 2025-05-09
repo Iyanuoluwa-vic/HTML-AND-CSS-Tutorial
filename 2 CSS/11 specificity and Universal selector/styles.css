@@ -1,0 +1,29 @@
+/* 
+
+Specifiity - as a score rank what style would be applied to an element
+    
+
+this specficty go from top to bottom
+ID
+Clas  pusedo class
+element  pusedo element
+
+Univeral selector has 0 specificity which make it the least specific
+
+*/
+
+* {
+  color: bisque;
+}
+
+.special {
+  color: red;
+}
+
+#heading {
+  color: blue;
+}
+
+.heading {
+  color: red;
+}
