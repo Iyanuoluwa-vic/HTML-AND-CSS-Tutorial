@@ -1,0 +1,12 @@
+/* class selector uses tyhe class  */
+.mainHeading {
+  color: yellow;
+}
+
+.subHeading {
+  color: blue;
+}
+
+p {
+  color: brown;
+}
